@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 05f57575d59097c44bae83a22c3b7a8b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 529813161531865349, guid: 421fa51b21f709147bfe3c6ed59d449b, type: 3}
+  - dogPrefab: {fileID: 4881687315788486340, guid: 00033b57dc25e0f44ad578e29436ce1d, type: 3}
+  - stonePrefab: {fileID: 3222087542562729735, guid: 8f33fbcc4f96792428047c7550c85ba4, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
